@@ -1,2 +1,2 @@
 # 2D-Game
-2D GAME
+*2D GAME*
